@@ -1,0 +1,74 @@
+
+body {
+  background-color: hsl(217, 54%, 11%);
+  max-height: 100vh;
+}
+
+a {
+  text-decoration: none;
+  color: #fff;
+}
+
+hr {
+  width: 100%;
+  color: hsl(215, 51%, 70%);
+}
+
+h3 {
+  font-family: 'Outfit', sans-serif;
+  padding-bottom: 3%;
+  font-weight: 600;
+  font-size: 1.3rem;
+}
+
+p {
+  font-family: 'Outfit', sans-serif;
+  font-weight: 300;
+  color: hsl(215, 51%, 70%);
+}
+
+.avatar-image {
+  width: 2.7rem;
+  padding-right: 4%;
+  margin-bottom: 3%;
+}
+
+.be-padding-left {
+  padding-left: 36%;
+}
+
+.card {
+  background-color: hsl(216, 50%, 16%);
+  border-radius: 3%;
+}
+
+.change-color {
+  color: hsl(178, 100%, 50%);
+}
+
+/* Delete This Margin and Do relative(duyarlı anlamaındaki) this body */
+.container {
+  margin-top: 12rem;
+  width: 23.5rem;
+}
+
+.cube-image {
+  padding: 7%;
+  width: 350px;
+  border-radius: 9%;
+}
+
+.fontawesome {
+  padding-right: 3%;
+}
+
+.main-text {
+  padding-bottom: 2%;
+  font-weight: 200;
+  font-size: 1.1rem;
+}
+
+.text {
+  color: #fff;
+  padding: 0 7%;
+}
